@@ -1,0 +1,53 @@
+.border{
+    border-radius: 4px;
+    border: 1px solid #121212;
+}
+
+.m1{
+margin: 5px;
+}
+.p1{
+    padding: 5px;
+}
+
+.flex{
+    display: flex;
+}
+
+.width25{
+width: 25px;
+
+}
+
+.grey{
+    color: grey;
+}
+
+body{
+background-color: black;
+color:white;
+}
+
+.filter{
+    filter: invert();
+}
+
+.bg-grey{
+
+background-color:#121212;
+
+}
+
+.border25{
+border-radius: 25px;
+border: 1px solid grey;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
